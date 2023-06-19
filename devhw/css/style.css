@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #555556;
+  background-color: yellow;
+}
+
+li {
+  font-size: 14px;
+  font-size: italic;
+  font-weight: normal;
+}
+
+a {
+  color: maroon;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;
+  text-decoration: underline;
+  font-size: large;
+}
+
+a:visited {
+  color: #c050df;
+}
+
+.resumeListJeadomg {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+}
+.justify {
+  text-align: justify;
+}
+
+.homebg {
+  background-image: url("../pictures/homebg.jpeg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.box1{
+  background-color: #f0f0f0;
+  border: 1px solid #000000;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.box2{
+  background-color: #f0f0f0;
+  border: 1px solid #816868;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
+.box3{
+  background-color: #f0f0f0;
+  border: 1px solid #b82828;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
